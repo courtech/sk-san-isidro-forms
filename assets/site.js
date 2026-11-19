@@ -39,6 +39,9 @@ const DOCS = {
   kkconsent:  {t:"Annex 2 – Informed Consent", f:"kk-profiling/Annex 2 - Informed Consent - TEMPLATE", s:"annex-2-informed-consent-template", n:1, docx:1},
   kksurvey:   {t:"Annex 3 – KK Survey Questionnaire (official)", f:"kk-profiling/Annex 3 - KK Survey Questionnaire (official)", s:"annex-3-kk-survey-questionnaire-official", n:1, docx:0},
   kkprofile:  {t:"Annex 4 – KK Youth Profile (list of all youth)", f:"kk-profiling/Annex 4 - KK Youth Profile - TEMPLATE", s:"annex-4-kk-youth-profile-template", n:1, docx:1, xlsx:1},
+  nycme:      {t:"NYC Advisory 2025-P001 – M&E Forms through the SK Web Portal", f:"nyc-portal/NYC SK Advisory 2025-P001 - M&E Forms through the SK Web Portal", s:"nyc-sk-advisory-2025-p001-m-e-forms-through-the-sk-web-portal", n:2, docx:0},
+  nycsched:   {t:"NYC Advisory 2026-P008 – Schedule of Encoding M&E Reports", f:"nyc-portal/NYC SK Advisory 2026-P008 - Schedule of Encoding M&E Reports", s:"nyc-sk-advisory-2026-p008-schedule-of-encoding-m-e-reports", n:6, docx:0},
+  nycgood:    {t:"NYC Advisory 2026-P009 – Certificate of Good Standing", f:"nyc-portal/NYC SK Advisory 2026-P009 - Certificate of Good Standing", s:"nyc-sk-advisory-2026-p009-certificate-of-good-standing", n:7, docx:0},
   transmittal:{t:"Transmittal Letter to the SB", f:"planning/Transmittal Letter - ABYIP & Annual Budget to SB - TEMPLATE", s:"transmittal-letter-abyip-annual-budget-to-sb-template", n:1, docx:1},
 };
 
